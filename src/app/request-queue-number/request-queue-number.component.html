@@ -1,0 +1,12 @@
+<div class="h-screen w-full flex flex-col items-center justify-center">
+  <h1>PRIEDS</h1>
+  <div class="divider"></div>
+  <p class="text-subtitle mb-2">Nomor Antrian anda : </p>
+  <p class="queue-number mb-2">{{ queueNum }}</p>
+  <p class="text-subtitle mb-2">Mohon Menunggu</p>
+  <ngx-barcode [bc-value]="queueNum"></ngx-barcode>
+  <p class="text-subtitle mt-2">{{ dateNow }}</p>
+  <div class="divider"></div>
+  <p class="text-closing">Budayakan antri untuk kenyamanan bersama</p>
+  <p class="text-closing">Terima kasih atas kunjungan Anda</p>
+</div>

@@ -1,0 +1,19 @@
+.area-container {
+  height: 100vh;
+  background-color: #A96762 !important;
+}
+
+form {
+  margin: 0 auto;
+}
+
+.w-card {
+  width: 60%;
+}
+
+.label-error {
+  font-size: 12px;
+  color: #f44336;
+  margin-top: -15px;
+  margin-bottom: 8px;
+}

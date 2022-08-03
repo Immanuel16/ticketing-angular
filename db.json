@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "prodName": "Kaus Polos",
+      "prodSite": "gudang",
+      "prodDesc": "Kaus Polos Size L",
+      "prodPrice": 25000,
+      "prodAddress": "Jalan Kenangan Blok U 39",
+      "queueNum": "PRIEDS-QUE-01",
+      "picName": "Jones Alvaro"
+    },
+    {
+      "id": 2,
+      "prodName": "Kaus Polos",
+      "prodSite": "gudang",
+      "prodDesc": "Kaus Polos Size L",
+      "prodPrice": 25000,
+      "prodAddress": "Jalan Kenangan Blok U 39",
+      "queueNum": "PRIEDS-QUE-01",
+      "picName": "Jones Alvaro"
+    }
+  ]
+}

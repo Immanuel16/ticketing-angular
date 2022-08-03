@@ -1,0 +1,24 @@
+.divider {
+  border: 3px solid #000;
+  width: 50%;
+}
+
+h1 {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.text-subtitle{
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.queue-number {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.text-closing {
+  font-size: 14px;
+  font-weight: 600;
+}
